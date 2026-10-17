@@ -1,0 +1,16 @@
+
+transformers==4.40.0
+kaggle
+pandas
+numpy
+nltk
+langdetect
+textblob
+torch
+keybert
+gradio
+matplotlib
+seaborn
+wordcloud
+deep-translator
+accelerate

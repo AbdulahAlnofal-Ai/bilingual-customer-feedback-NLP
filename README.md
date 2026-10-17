@@ -78,13 +78,6 @@ bilingual-customer-feedback-NLP/
 
 The results depend on the datasets and pretrained models. Theme extraction relies on keyword matching, and chatbot responses may not always be accurate. Model downloads and inference can require substantial storage and processing time.
 
-## Future Improvements
-
-- Evaluate sentiment models using standard performance metrics.
-- Improve theme extraction with semantic methods.
-- Optimize chatbot speed and memory usage.
-- Expand testing across additional datasets.
-
 ## License
 
 This repository is provided for educational and research purposes. Refer to the original dataset and pretrained model licenses before redistributing their contents or weights.

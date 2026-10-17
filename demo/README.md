@@ -1,7 +1,15 @@
 # Project Demo
 
-This directory will contain the demonstration video for the Bilingual Customer Feedback Analysis using NLP project.
+## Bilingual Customer Feedback Analysis Using NLP
 
-The demo will showcase sentiment analysis, feedback theme extraction, text summarization, the interactive dashboard, and the conversational chatbot.
+This demonstration showcases the project's main features:
 
-**Status:** Demo video will be added soon.
+- English and Arabic sentiment analysis
+- Customer complaint and praise theme extraction
+- AI-powered text summarization
+- Interactive Gradio dashboard
+- Conversational chatbot
+
+### Watch the Demo
+
+[**Click here to watch the project demonstration**](https://youtu.be/yZC0XN4U5bI) 
